@@ -12,7 +12,7 @@
 // $response = $api->queryApi (array $query); // run the query
 // echo $response; // do something with response
 
-namespace MoussaClarke;
+namespace EricLagarda;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\HandlerStack;
