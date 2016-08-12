@@ -19,7 +19,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "EricLagarda\\": "src"
+            "EricLagarda\\BeatportApi\\": "src"
         }
     },
     "require": {
