@@ -11,9 +11,11 @@
         "email": "moussaclarke@gmail.com",
         "homepage": "http://www.moussaclarke.co.uk"
         },
+        {
         "name": "Eric Lagarda",
         "email": "info@ericlagarda.com",
         "homepage": "http://www.ericlagarda.com"
+        }
     ],
     "autoload": {
         "psr-4": {
