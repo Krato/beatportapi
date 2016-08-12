@@ -12,7 +12,7 @@
 // $response = $api->queryApi (array $query); // run the query
 // echo $response; // do something with response
 
-namespace EricLagarda;
+namespace EricLagarda\BeatportApi;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\HandlerStack;
@@ -21,7 +21,7 @@ use GuzzleHttp\Middleware;
 use GuzzleHttp\Subscriber\Oauth\Oauth1;
 use GuzzleHttp\TransferStats;
 
-class BeatportApi
+class BeatportOAuth
 {
 
     private $client; // http client
